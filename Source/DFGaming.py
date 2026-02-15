@@ -21,7 +21,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 # GLOBAL CONFIG
 # =========================================================
 
-APP_NAME = "DFGaming ULTIMATE X"
+APP_NAME = "DFGaming"
 LEARN_FILE = "learned_apps.json"
 
 boost_active = False
