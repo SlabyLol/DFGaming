@@ -1,0 +1,1 @@
+pip install psutil GPUtil matplotlib pystray pillow pygetwindow
